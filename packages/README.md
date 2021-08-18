@@ -1,0 +1,27 @@
+#Some basic packages included here!!!
+
+- kernel: linux-lts (long term support)
+- Browsers: Brave and firefox
+- file manager: pcmanfm
+- image viewer: mirage
+- media player(audio/video): celluloid
+- photo editor: gimp
+- video editor: kdenlive
+- text editors: vim, mousepad and sublime text
+- file sharing server: samba
+- internet firewall: ufw
+- backup and restore utility: timeshift
+- disk managers: gparted and gnome-disks-utility
+- shell: fish
+- vpn: windscribe
+- virtual machine: oracle virtualbox
+- bitTorrent client: transmission
+- archiving tools: zip, unzip, unrar, xarchiver
+- mail client: thunderbird
+- Internet speed checker: speedtest-cli
+- screen recorder: simplescreenrecorder
+- networkmanager gui: networkmanager-dmenu-git
+- password manager: keepassxc
+- task manager/monitor: htop
+- screenshooter: scrot
+- others: grub customizer, dmenu, neofetch
