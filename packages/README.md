@@ -1,5 +1,4 @@
 <h3 color = yellow><b><i>⚠️ warning: you should have installed <a href = 'https://aur.archlinux.org/packages/yay/'>yay</a> (an aur helper) before running the script. </i></b></h3>
-<i><p color = red>⚠️ This script is specially designed for arch linux with dwm without login manager <b>(using xinitrc to start GUI)</b>. Changes should be made accordingly to use any other DE and/or login manager.</i> </p>
 Install all the packages i installed on my arch machine at one click.
 <h2 color=blue> How to install?</h2>
 1. Download the script: <code>wget https://raw.githubusercontent.com/YogeshLamichhane/myarchdwmsetup/main/packages/installmypackages.sh</code><br>
