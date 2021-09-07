@@ -1,6 +1,8 @@
 /* See LICENSE file for copyright and license details. */
 #include <X11/XF86keysym.h>
 /* appearance */
+static const char *browser[] = { "/usr/bin/brave", " ", NULL };
+static const char *screenshot[] = { "/usr/bin/scrot", "/home/invalid/Photos/Screenshots/ ", NULL };
 static const char *upvol[]   = { "/usr/bin/pactl", "set-sink-volume", "0", "+5%",     NULL };
 static const char *downvol[] = { "/usr/bin/pactl", "set-sink-volume", "0", "-5%",     NULL };
 static const char *mutevol[] = { "/usr/bin/pactl", "set-sink-mute",   "0", "toggle",  NULL };
@@ -104,6 +106,8 @@ static Key keys[] = {
 	TAGKEYS(                        XK_8,                      7)
 	TAGKEYS(                        XK_9,                      8)
 	{ MODKEY|ShiftMask,             XK_q,      quit,           {0} },
+	{ Mod4Mask, XK_b, spawn, {.v = browser} },
+	{ Mod4Mask, XK_s, spawn, {.v = screenshot} },
 };
 
 /* button definitions */
