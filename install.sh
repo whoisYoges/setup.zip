@@ -89,7 +89,7 @@ mkdir Gitclones
 cd Gitclones
 git clone https://aur.archlinux.org/yay.git
 cd yay
-makepkg-si
+makepkg -si
 cd
 rm -Rf Gitclones
 
