@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "You must login as normal user before running this script. Running this script as ROOT user is STRICTLY PROHIBITED.
+echo "You must login as normal user before running this script. Running this script as ROOT user is STRICTLY PROHIBITED."
 echo "Stop the script now (ctrl + z) if you are running it as root user. If you dont, the script will automatically stop after 10 seconds."
 sleep 10s
 username=$(whoami)
