@@ -1,22 +1,33 @@
 #!/bin/bash
 
 echo "You must login as normal user before running this script. Running this script as ROOT user is STRICTLY PROHIBITED."
-echo "Stop the script now (ctrl + z) if you are running it as root user. If you dont, the script will automatically stop after 10 seconds."
-sleep 10s
+echo "Stop the script now (ctrl + z) if you are running it as root user. If you dont, the script will automatically stop after 5 seconds."
+sleep 5s
 username=$(whoami)
 if [[ $username = root ]] ; then
 	exit
 else
 	echo "You are $username. You can proceed further..."
 	echo "Installing Git..."
+	sleep 5s
 	doas pacman -Sy --needed git
 	cd
+	pwd
+	sleep 2s
 	mkdir Gitclones
 	cd Gitclones
+	pwd
+	sleep 3s
 	git clone https://aur.archlinux.org/yay.git
+	sleep 5s
 	git clone https://github.com/YogeshLamichhane/setup.zip
+	sleep 5s
 	git clone https://github.com/YogeshLamichhane/lwalpapers
+	sleep 5s
 	git clone https://github.com/YogeshLamichhane/internet-crap
+	sleep 5s
+	ls
+	sleep 3s
 	cd yay
 	clear
 	ls
