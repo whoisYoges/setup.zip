@@ -10,14 +10,14 @@ else
 	echo "You are $username. You can proceed further..."
 	echo "Installing Git..."
 	sleep 5s
-	doas pacman -Sy --needed git
+	doas pacman -Sy --needed git autoconf automake binutils bison fakeroot file findutils flex gawk gcc gettext grep groff gzip libtool m4 make patch pkgconf sed texinfo which
 	cd
 	pwd
-	sleep 2s
+	sleep 5s
 	mkdir Gitclones
 	cd Gitclones
 	pwd
-	sleep 3s
+	sleep 5s
 	git clone https://aur.archlinux.org/yay.git
 	sleep 5s
 	git clone https://github.com/YogeshLamichhane/setup.zip
@@ -27,7 +27,7 @@ else
 	git clone https://github.com/YogeshLamichhane/internet-crap
 	sleep 5s
 	ls
-	sleep 3s
+	sleep 5s
 	cd yay
 	clear
 	ls
