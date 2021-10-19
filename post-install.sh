@@ -9,7 +9,7 @@ if [[ $username = root ]] ; then
 else
 	echo "You are $username. You can proceed further..."
 	echo "Installing Git..."
-	pacman -Sy --needed git
+	doas pacman -Sy --needed git
 	cd
 	mkdir Gitclones
 	cd Gitclones
