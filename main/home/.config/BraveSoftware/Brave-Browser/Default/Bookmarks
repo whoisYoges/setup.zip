@@ -1,0 +1,599 @@
+{
+   "checksum": "40c41cfd87fae141017fb7201f1a8349",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13274428034000000",
+                  "guid": "f845420c-2c06-44f9-abfe-72b8b7c37be6",
+                  "id": "7",
+                  "name": "Gupta tutorial",
+                  "type": "url",
+                  "url": "https://gupta55tutorial.blogspot.com/"
+               }, {
+                  "date_added": "13274429452000000",
+                  "guid": "d91c4b2e-16db-4064-8614-14fa85d6861d",
+                  "id": "8",
+                  "name": "Discrete mathematics - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLtusNRRQtirwG2EkThKuaR-hVeG7F0xn9"
+               }, {
+                  "date_added": "13274457888000000",
+                  "guid": "2a7f2b7e-edc4-4efc-b935-52a5ca671de6",
+                  "id": "9",
+                  "name": "Ds Ya pugyo",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=TuOcCi-Zc8g&list=PLtusNRRQtirwG2EkThKuaR-hVeG7F0xn9&index=4"
+               }, {
+                  "date_added": "13274509376000000",
+                  "guid": "ecef17eb-96e4-4f40-8483-46ab9485e4f2",
+                  "id": "10",
+                  "name": "Mathematics-II 2075 Question Solution From chapter-1 Reduce Echelon Form and Consistent or not - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=2-TtBeivTOY&list=PLtusNRRQtirwX9EcPaQYplhF-H71sW_xk"
+               }, {
+                  "date_added": "13274542233000000",
+                  "guid": "1c2e38bb-168b-4564-bab6-dd80a09c61bc",
+                  "id": "11",
+                  "name": "Download Old Questions for BSc. CSIT Subjects | CSIT in Nepal",
+                  "type": "url",
+                  "url": "https://csithub.com/bsccsit-old-questions"
+               }, {
+                  "date_added": "13274377392000000",
+                  "guid": "2a5f5b7a-ab2b-4e04-af08-99f9996bfaac",
+                  "id": "12",
+                  "name": "Microprocessor Chapter-wise important question #TUExamQuestion #BscCSIT #BIT #BIM #BEIT #Engineering - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=7S0KJbGWZM0"
+               } ],
+               "date_added": "13278247629906323",
+               "date_modified": "0",
+               "guid": "19476296-e490-4ad6-b808-28f569da7f14",
+               "id": "6",
+               "name": "CSIT",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13267596148000000",
+                     "guid": "88038669-08a9-4d10-bf90-dd1290dfcb07",
+                     "id": "15",
+                     "name": "Creating Packages For The Arch User Repository (AUR) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=iUz28vbWgVw"
+                  } ],
+                  "date_added": "13278247629906554",
+                  "date_modified": "0",
+                  "guid": "fdd1cb91-e8ac-4b21-8d12-c40dbadf4248",
+                  "id": "14",
+                  "name": "Arch",
+                  "type": "folder"
+               }, {
+                  "date_added": "13267887736000000",
+                  "guid": "21a750ed-cad6-4c50-a55b-d17a05dd7ffb",
+                  "id": "16",
+                  "name": "Airplay from iphone or ipad to linux target Linux Jonathans Blog",
+                  "type": "url",
+                  "url": "https://jonathansblog.co.uk/airplay-from-iphone-or-ipad-to-linux"
+               }, {
+                  "children": [ {
+                     "date_added": "13273222508000000",
+                     "guid": "67de2a39-fa98-4e8e-9fa5-4e69fe28099a",
+                     "id": "18",
+                     "name": "[SOLVED] Unable to have natural scrolling working / Laptop Issues / Arch Linux Forums",
+                     "type": "url",
+                     "url": "https://bbs.archlinux.org/viewtopic.php?id=240950"
+                  }, {
+                     "date_added": "13273593998000000",
+                     "guid": "ea94c68e-9379-4044-a69d-ebdc21588d29",
+                     "id": "19",
+                     "name": "How I make $275 per month with ffmpeg + Linux Shell - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=AsqrltRtlws"
+                  }, {
+                     "date_added": "13273676466000000",
+                     "guid": "f67d95ce-46dc-4800-ba39-656a5eb6bbd8",
+                     "id": "20",
+                     "name": "Dwm default keys cheatsheet",
+                     "type": "url",
+                     "url": "https://gist.github.com/erlendaakre/12eb90eef84a3ab81f7b531e516c9594"
+                  }, {
+                     "date_added": "13273334744000000",
+                     "guid": "896c1ec7-3f02-426d-b43a-1a614b350458",
+                     "id": "21",
+                     "name": "Managing Packages with XBPS and Void Linux - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=MMJVZ48IRkM"
+                  }, {
+                     "date_added": "13273334568000000",
+                     "guid": "476fcfd9-79ef-475b-9989-150cd2a270f2",
+                     "id": "22",
+                     "name": "Void Linux Installation Guide - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=wiP38mNXujE"
+                  }, {
+                     "date_added": "13273500719000000",
+                     "guid": "90a1c506-fe84-45cd-a822-632ea8d3c93f",
+                     "id": "23",
+                     "name": "maile mostly sunne songs hazar sapana ,ajeeeb dasata ,ekdal do panchi,kabhi bukeko khana ani old song ae hoi babal xa old song chai at DuckDuckGo",
+                     "type": "url",
+                     "url": "https://duckduckgo.com/?q=maile+mostly+sunne+songs+hazar+sapana+%2Cajeeeb+dasata+%2Cekdal+do+panchi%2Ckabhi+bukeko+khana+ani+old+song+ae+hoi+babal+xa+old+song+chai&t=brave"
+                  }, {
+                     "date_added": "13273336334000000",
+                     "guid": "f10f343d-607d-4cbd-b9bb-8e9457605762",
+                     "id": "24",
+                     "name": "Aalto Talk with Linus Torvalds [Full-length] - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=MShbP3OpASA"
+                  }, {
+                     "date_added": "13273299914000000",
+                     "guid": "3cc7e508-3689-4053-a9a1-7c7da12ede3d",
+                     "id": "25",
+                     "name": "How to play PUBG mobile in Linux no lag - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=vHWV8D6gGeU"
+                  }, {
+                     "date_added": "13273223858000000",
+                     "guid": "5adb592d-dc94-45c9-9f0b-f08b1ace2817",
+                     "id": "26",
+                     "name": "[Solved] Lost tap-to-click on trackpad / Laptop Issues / Arch Linux Forums",
+                     "type": "url",
+                     "url": "https://bbs.archlinux.org/viewtopic.php?id=214382"
+                  }, {
+                     "date_added": "13273223853000000",
+                     "guid": "d7d200af-0826-4df7-ab77-d61e7b6b1c5a",
+                     "id": "27",
+                     "name": "How to enable Tap-to-click | Garuda Linux wiki",
+                     "type": "url",
+                     "url": "https://wiki.garudalinux.org/en/tap-to-click"
+                  }, {
+                     "date_added": "13273223850000000",
+                     "guid": "99ebde8c-7f5b-4132-80b8-3775faa6a736",
+                     "id": "28",
+                     "name": "Enable tap-to-click on Arch Linux | xtrymind",
+                     "type": "url",
+                     "url": "https://xtrymind.wordpress.com/2017/03/11/enable-tap-to-click-on-openbox/"
+                  }, {
+                     "date_added": "13273223693000000",
+                     "guid": "1992a292-69f4-4c9c-8a57-30bbafb52fd9",
+                     "id": "29",
+                     "name": "Touchpad Synaptics - ArchWiki",
+                     "type": "url",
+                     "url": "https://wiki.archlinux.org/title/Touchpad_Synaptics"
+                  }, {
+                     "date_added": "13273216741000000",
+                     "guid": "b46b5963-38c0-4543-850e-b27031db3581",
+                     "id": "30",
+                     "name": "[10c] | DWM: Status Bar Customization - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=w8NE_1ylnDw"
+                  }, {
+                     "date_added": "13273992976000000",
+                     "guid": "f97e3b05-bee6-429c-bd05-5f7a6c69fea2",
+                     "id": "31",
+                     "name": "A Beginner's Guide To Gimp - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=YHwnlgD18kE"
+                  }, {
+                     "date_added": "13274023375000000",
+                     "guid": "655406d6-4624-461a-93ea-911ade2443a2",
+                     "id": "32",
+                     "name": "【SuperTuxKart】Elite Training Arc + Racing With Viewers - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=iX0ANV9Y6i4"
+                  } ],
+                  "date_added": "13278247629906612",
+                  "date_modified": "0",
+                  "guid": "b6c059f4-237c-498d-99a7-88d50f2d1106",
+                  "id": "17",
+                  "name": "TOrvalds",
+                  "type": "folder"
+               }, {
+                  "date_added": "13275757065000000",
+                  "guid": "b9374012-2038-445c-ac56-4aab4d405c74",
+                  "id": "33",
+                  "name": "Linux Hardware Reviews, Open-Source Benchmarks & Linux Performance - Phoronix",
+                  "type": "url",
+                  "url": "https://www.phoronix.com/scan.php?page=home"
+               }, {
+                  "date_added": "13278346442264545",
+                  "guid": "fe083bfe-dc3d-4048-9ffe-bf0ad1612178",
+                  "id": "82",
+                  "name": "SYSTEM ADMINISTRATOR: Samba File share server",
+                  "type": "url",
+                  "url": "https://sannamz.blogspot.com/p/samba-file-share-server.html"
+               }, {
+                  "date_added": "13278354436672838",
+                  "guid": "e3d4e673-14d3-48a5-bad1-931fac8a8923",
+                  "id": "84",
+                  "name": "Mastering the Vim Language - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=wlR5gYd6um0"
+               } ],
+               "date_added": "13278247629906547",
+               "date_modified": "13278676391653209",
+               "guid": "83223423-4512-40f4-a134-86d36a62f5f6",
+               "id": "13",
+               "name": "Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13268934553000000",
+                  "guid": "c90f690d-3277-4fa3-befb-b38f8337b20e",
+                  "id": "35",
+                  "name": "SimsTorrent : Home",
+                  "type": "url",
+                  "url": "https://simstorrent.org/"
+               }, {
+                  "date_added": "13268934578000000",
+                  "guid": "790b0c1c-2a0a-40cf-85ed-3a1054d8c55e",
+                  "id": "36",
+                  "name": "Torrent Search Engine | 1337x.to",
+                  "type": "url",
+                  "url": "https://1337x.to/"
+               }, {
+                  "date_added": "13268934589000000",
+                  "guid": "760e07c9-8c29-44c2-9a9d-797c520f213b",
+                  "id": "37",
+                  "name": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+                  "type": "url",
+                  "url": "https://thepiratebay.org/index.html"
+               }, {
+                  "date_added": "13269450881000000",
+                  "guid": "1624e6b1-98ab-4e15-9171-971475b8638e",
+                  "id": "38",
+                  "name": "Browse :: Nyaa",
+                  "type": "url",
+                  "url": "https://nyaa.si/"
+               } ],
+               "date_added": "13278247629906997",
+               "date_modified": "0",
+               "guid": "8b4af6f2-34d9-45b1-a8b8-f7cb1a002830",
+               "id": "34",
+               "name": "Torrent",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13269064927000000",
+                  "guid": "74700003-569e-4826-bb9c-a7055f0f5b6b",
+                  "id": "40",
+                  "name": "Gogoanime - Watch anime online, English anime online FREE",
+                  "type": "url",
+                  "url": "https://gogoanimetv.io/"
+               }, {
+                  "date_added": "13269065023000000",
+                  "guid": "c17cd128-3cc1-4759-9c63-593682d9d3e1",
+                  "id": "41",
+                  "name": "Watch Anime Online, Watch English Anime Online Subbed, Dubbed",
+                  "type": "url",
+                  "url": "https://9anime.live/"
+               }, {
+                  "date_added": "13269065106000000",
+                  "guid": "777fbe1e-9201-4074-a6e6-292e6f577e1c",
+                  "id": "42",
+                  "name": "Anime Recommendations, Reviews, Manga and More! | Anime-Planet",
+                  "type": "url",
+                  "url": "https://www.anime-planet.com/"
+               }, {
+                  "date_added": "13269065319000000",
+                  "guid": "e4f2cd53-99f8-4d9f-97e8-75816328e3d1",
+                  "id": "43",
+                  "name": "Animedao - Watch best high quality episodes",
+                  "type": "url",
+                  "url": "https://animedao.cc/"
+               }, {
+                  "date_added": "13269065426000000",
+                  "guid": "3068f638-2394-42d2-ba02-5d60676900e9",
+                  "id": "44",
+                  "name": "Animeheaven: Watch Anime Online For Free Similar to AnimeHeaven.EU",
+                  "type": "url",
+                  "url": "https://animeheaven.site/"
+               }, {
+                  "date_added": "13269065660000000",
+                  "guid": "ed07e3c2-e0ae-437d-a7cd-9f828a9a4a55",
+                  "id": "45",
+                  "name": "Top 10 Anime Like Naruto (Hindi) - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=agPaytn97jo"
+               }, {
+                  "date_added": "13268842935000000",
+                  "guid": "637934f6-fe46-4beb-9ce5-2a1828036755",
+                  "id": "46",
+                  "name": "Top 10 Most Popular Anime of All Time - ReelRundown",
+                  "type": "url",
+                  "url": "https://reelrundown.com/animation/top-10-most-popular-anime-of-all-time"
+               }, {
+                  "date_added": "13269279938000000",
+                  "guid": "6ba6f35e-ef47-4829-80ff-542266f73b64",
+                  "id": "47",
+                  "name": "Crunchyroll - Watch Popular Anime & Read Manga Online",
+                  "type": "url",
+                  "url": "https://www.crunchyroll.com/"
+               }, {
+                  "date_added": "13269319461000000",
+                  "guid": "54fde37a-7eff-4744-9236-4b3a6fb215b2",
+                  "id": "48",
+                  "name": "MyAnimeList.net - Anime and Manga Database and Community",
+                  "type": "url",
+                  "url": "https://myanimelist.net/"
+               }, {
+                  "date_added": "13269448911000000",
+                  "guid": "5d2d8051-8add-450f-b8d0-aaa129969a61",
+                  "id": "49",
+                  "name": "animepahe :: okay-ish anime website",
+                  "type": "url",
+                  "url": "https://animepahe.com/"
+               }, {
+                  "date_added": "13269449073000000",
+                  "guid": "8b87ebd7-2d3e-4479-9841-55c763b528b6",
+                  "id": "50",
+                  "name": "Kickassanime.ro - Watch Free Popular Anime Dub and Sub and more",
+                  "type": "url",
+                  "url": "https://www2.kickassanime.ro/"
+               }, {
+                  "children": [ {
+                     "date_added": "13269449562000000",
+                     "guid": "bd17f833-10ea-4c96-b653-7794b3119c38",
+                     "id": "52",
+                     "name": "Kayoanime » News, Reviews & Updates of Anime",
+                     "type": "url",
+                     "url": "https://kayoanime.com/"
+                  }, {
+                     "date_added": "13269449464000000",
+                     "guid": "85313082-3cc9-4384-adcb-3698d810e750",
+                     "id": "53",
+                     "name": "AniDL",
+                     "type": "url",
+                     "url": "https://anidl.org/"
+                  }, {
+                     "date_added": "13278695394058552",
+                     "guid": "17f9b4bb-de3a-4ecc-b584-6e9ddd34213c",
+                     "id": "88",
+                     "name": "The Anime Index",
+                     "type": "url",
+                     "url": "https://piracy.moe/"
+                  } ],
+                  "date_added": "13278247629907306",
+                  "date_modified": "13278695401939625",
+                  "guid": "749f9a55-cd89-4ea8-bc18-3e9725d011e5",
+                  "id": "51",
+                  "name": "Download",
+                  "type": "folder"
+               }, {
+                  "date_added": "13269451415000000",
+                  "guid": "ce0e4102-8756-46a0-a764-125a165f2f7f",
+                  "id": "54",
+                  "name": "Home - Simplyaweeb",
+                  "type": "url",
+                  "url": "https://simplyaweeb.com/"
+               }, {
+                  "date_added": "13269451604000000",
+                  "guid": "2eed9f24-9001-4ca9-883d-968516166a28",
+                  "id": "55",
+                  "name": "Watch High Quality Anime For Free Without Any Ads - ArrayAnime",
+                  "type": "url",
+                  "url": "https://www.arrayanime.com/"
+               }, {
+                  "date_added": "13276523975000000",
+                  "guid": "ba5618e8-693c-46ad-86e2-5ff684b205b1",
+                  "id": "56",
+                  "name": "Watch Anime Online, Free Anime Streaming Online on Zoro.to Anime Website",
+                  "type": "url",
+                  "url": "https://zoro.to/"
+               } ],
+               "date_added": "13278247629907083",
+               "date_modified": "0",
+               "guid": "174eb485-b5b2-4cba-88c8-7aca9a35a1c1",
+               "id": "39",
+               "name": "Anime",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13267974062000000",
+                  "guid": "7992750a-31b7-401e-9404-556de4dca841",
+                  "id": "58",
+                  "name": "How to make Windows 7 Faster - Faster Gaming 2016/2017 - Free & Fast Speed - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=HELAorhxFYM"
+               }, {
+                  "date_added": "13267974318000000",
+                  "guid": "3add8e93-9474-4df8-bd81-fab9b01a6d7a",
+                  "id": "59",
+                  "name": "How to Optimize Windows 7 For GAMING - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=qpqk3qrRIrQ"
+               }, {
+                  "children": [ {
+                     "date_added": "13268252761000000",
+                     "guid": "75d779c2-6278-47d6-a621-793a62288ef1",
+                     "id": "61",
+                     "name": "Iron Maiden, ,Metallica, Helloween, BlackSabbath - Heavy Metal Hard Rock Music 2021 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=80lKLqLm16I"
+                  }, {
+                     "date_added": "13267976047000000",
+                     "guid": "121cdba9-5391-4e40-9b37-5f405a450bb3",
+                     "id": "62",
+                     "name": "Top 10 NCS - Rock & Metal Guitar Mix (No Copyright Songs) - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=gwLkxH_iIWQ"
+                  }, {
+                     "date_added": "13276373928000000",
+                     "guid": "aae87086-febe-4e40-8f07-e40e1fd1a987",
+                     "id": "63",
+                     "name": "☠️2Pac Gangsta Rap Old School Mix July 2021☠️ Best 2Pac Rap / Hip Hop Music Mix ft. Eminem, Biggie - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=rvMSo0Oyw1M"
+                  }, {
+                     "date_added": "13277177500000000",
+                     "guid": "4d86dd11-ec5e-42fd-9e66-e381dc978d11",
+                     "id": "64",
+                     "name": "Nepali Chill & fun playlist (study, sleep, relax ) Nepali Music | New Nepali Song | Nepali Songs - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=Q98x3eVyns4"
+                  }, {
+                     "date_added": "13277177518000000",
+                     "guid": "c7366428-ecd9-4901-87f6-7cb8d1ac0325",
+                     "id": "65",
+                     "name": "Drizzle | Nepali Chill Mix - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=x-dMUrdM9J0"
+                  }, {
+                     "date_added": "13278329654465372",
+                     "guid": "73393836-6826-4d62-ac7d-68cac048d197",
+                     "id": "80",
+                     "name": "Best Slow Rock Ballads 80's 90's - Scorpions, Bon Jovi, Aerosmith, Led Zeppelin, U2, Guns N' Roses - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=fZqXMfj-AsM"
+                  }, {
+                     "date_added": "13278676391653209",
+                     "guid": "31acb499-befe-4783-9f2d-d026eab1fa46",
+                     "id": "86",
+                     "name": "Female Metal Vocals Vol.3 - YouTube",
+                     "type": "url",
+                     "url": "https://www.youtube.com/watch?v=op8OBPwzI1o"
+                  } ],
+                  "date_added": "13278247629907447",
+                  "date_modified": "13278695394058552",
+                  "guid": "03a66fbf-30a6-4c48-acc3-00ba2cdc72c0",
+                  "id": "60",
+                  "name": "Music",
+                  "type": "folder"
+               }, {
+                  "date_added": "13276401343000000",
+                  "guid": "7837fbb4-3963-48b1-856e-23dd3adb2136",
+                  "id": "66",
+                  "name": "Shell Scripting - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT"
+               } ],
+               "date_added": "13278247629907394",
+               "date_modified": "0",
+               "guid": "0db74bb3-ad30-43fa-9450-9a127bee2e9b",
+               "id": "57",
+               "name": "Youtube",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13268065065000000",
+                  "guid": "d66e763e-e8bf-46f3-b2ff-a33733127216",
+                  "id": "68",
+                  "name": "Free Udemy Online Courses and Udemy Free Courses",
+                  "type": "url",
+                  "url": "https://app.real.discount/"
+               }, {
+                  "date_added": "13268110431000000",
+                  "guid": "55fe339d-2600-473a-b804-041e7ba69348",
+                  "id": "69",
+                  "name": "PUBG MOBILE REDEEM",
+                  "type": "url",
+                  "url": "https://www.pubgmobile.com/act/a20180515iggame/"
+               }, {
+                  "date_added": "13268327407000000",
+                  "guid": "b002578e-3957-4d11-8ad6-015084d8ccd5",
+                  "id": "70",
+                  "name": "DaFont - Download fonts",
+                  "type": "url",
+                  "url": "https://www.dafont.com/"
+               }, {
+                  "date_added": "13268632252000000",
+                  "guid": "679fa576-51a3-4f7c-b76d-0bdf5ec3a531",
+                  "id": "71",
+                  "name": "heyogesh@perso.be",
+                  "type": "url",
+                  "url": "https://www-7.mailo.com/mailo/mail/inbox.php?s=HflcPsiE0HPWKjJyi3nzsDNc"
+               }, {
+                  "date_added": "13269231593000000",
+                  "guid": "3684fe40-3593-402f-8f61-700e742579ff",
+                  "id": "72",
+                  "name": "Type in Nepali | Easy Nepali Typing (नेपालीमा टाईप गर्नुस) in 2021",
+                  "type": "url",
+                  "url": "https://www.easynepalityping.com/"
+               }, {
+                  "date_added": "13269268620000000",
+                  "guid": "f577cfc1-c0ec-4ee1-92b2-a50fe2d46829",
+                  "id": "73",
+                  "name": "Free Text to Speech Online with Natural Voices",
+                  "type": "url",
+                  "url": "https://www.naturalreaders.com/online/"
+               }, {
+                  "date_added": "13274904210000000",
+                  "guid": "1b15052a-cb73-4421-9a0d-7dfa706d6830",
+                  "id": "74",
+                  "name": "France : 33757130918 | Free Temporary Phone Numbers for SMS Verification | Receive SMS Online Now • quackr",
+                  "type": "url",
+                  "url": "https://quackr.io/temporary-numbers/france/33757130918"
+               } ],
+               "date_added": "13278247629907592",
+               "date_modified": "0",
+               "guid": "829ab51f-47b6-4b88-a249-c0725ec75b8d",
+               "id": "67",
+               "name": "Others",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275756122000000",
+                  "guid": "696bfc16-3f0d-4dd5-b04b-7f7e3ad8378f",
+                  "id": "76",
+                  "name": "Mero Share",
+                  "type": "url",
+                  "url": "https://meroshare.cdsc.com.np/#/dashboard"
+               } ],
+               "date_added": "13278247629907740",
+               "date_modified": "0",
+               "guid": "05460c0d-e071-4248-95f5-d0b8ec9cbffd",
+               "id": "75",
+               "name": "Share",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13275055537000000",
+                  "guid": "e5b8bff6-9bcc-4661-9dcc-6dc29c98dffc",
+                  "id": "78",
+                  "name": "OSR Sports - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/c/OSRSports/videos"
+               } ],
+               "date_added": "13278247629907763",
+               "date_modified": "0",
+               "guid": "9ec3124e-35e1-4a28-ac7a-92a234508986",
+               "id": "77",
+               "name": "Sports",
+               "type": "folder"
+            } ],
+            "date_added": "13278247629905884",
+            "date_modified": "13278329654465372",
+            "guid": "844b9755-665f-43a0-aaec-6e2bc6bd68af",
+            "id": "5",
+            "name": "All",
+            "type": "folder"
+         } ],
+         "date_added": "13278247595593510",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13278247595593513",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13278247595593515",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

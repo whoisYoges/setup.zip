@@ -1,0 +1,18 @@
+2021/10/12-10:52:58.054 f577 Reusing MANIFEST /home/invalid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/12-10:52:58.055 f577 Recovering log #3
+2021/10/12-10:52:58.081 f577 Reusing old log /home/invalid/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/000003.log 
+2021/10/12-11:01:08.870 11822 Level-0 table #5: started
+2021/10/12-11:01:09.391 11822 Level-0 table #5: 966699 bytes OK
+2021/10/12-11:01:09.531 11822 Delete type=0 #3
+2021/10/12-11:26:17.419 14da2 Level-0 table #7: started
+2021/10/12-11:26:17.463 14da2 Level-0 table #7: 156235 bytes OK
+2021/10/12-11:26:17.514 14da2 Delete type=0 #4
+2021/10/12-11:26:17.514 14da2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/12-11:26:17.514 14da2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`\xa220\xc7wB\x00\x01<\x00d\x00a\x00t\x00a\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00p\x00c\x00l\x00i\x00e\x00n\x00t\x00.\x00w\x00g\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00.\x00c\x00o\x00m\x00/\x00m\x00e\x00l\x00o\x00d\x00y\x00/\x00v\x001\x00/\x00t\x00i\x00m\x00e' @ 24988 : 1
+2021/10/12-11:26:17.515 14da2 Compacting 1@1 + 1@2 files
+2021/10/12-11:26:17.581 14da2 Generated table #8@1: 2387 keys, 369511 bytes
+2021/10/12-11:26:17.581 14da2 Compacted 1@1 + 1@2 files => 369511 bytes
+2021/10/12-11:26:17.631 14da2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/12-11:26:17.631 14da2 Delete type=2 #7
+2021/10/12-11:26:17.631 14da2 Delete type=2 #5
+2021/10/12-11:26:17.632 14da2 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`\xa220\xc7wB\x00\x01<\x00d\x00a\x00t\x00a\x00-\x00c\x00a\x00c\x00h\x00e\x00-\x00v\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x00p\x00c\x00l\x00i\x00e\x00n\x00t\x00.\x00w\x00g\x00.\x00s\x00p\x00o\x00t\x00i\x00f\x00y\x00.\x00c\x00o\x00m\x00/\x00m\x00e\x00l\x00o\x00d\x00y\x00/\x00v\x001\x00/\x00t\x00i\x00m\x00e' @ 24988 : 1 .. (end); will stop at (end)

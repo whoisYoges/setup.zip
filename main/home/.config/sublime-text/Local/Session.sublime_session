@@ -1,0 +1,480 @@
+{
+	"folder_history":
+	[
+		"/home/invalid/Gitclones/magic-arch-installer",
+		"/home/invalid/Applications/scripts/dwm-bar",
+		"/home/invalid/Gitclones/internet-crap"
+	],
+	"last_version": 4113,
+	"last_window_id": 6,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 691.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"us",
+						"useradd"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/invalid/Gitclones/setup.zip/install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/install-utilities.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-lxqt.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-lxqt.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-dwm.sh",
+				"/home/invalid/Applications/scripts/dwm-bar/dwm-bars.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-lxqt.sh",
+				"/home/invalid/Gitclones/internet-crap/hosts",
+				"/home/invalid/Gitclones/internet-crap/README.md",
+				"/home/invalid/Downloads/Hosts/hosts",
+				"/home/invalid/Downloads/Hosts/hostsfinal.txt",
+				"/etc/hosts",
+				"/home/invalid/Downloads/Hosts/1.txt",
+				"/home/invalid/Downloads/Hosts/test/12.txt",
+				"/home/invalid/Downloads/Hosts/test/file1.txt",
+				"/home/invalid/Downloads/Hosts/test/file2.txt",
+				"/home/invalid/Downloads/Hosts/test/file1sorted.txt",
+				"/home/invalid/Downloads/Hosts/test/file1sort.txt",
+				"/home/invalid/Gitclones/dwm/dwm-6.2/config.def.h",
+				"/home/invalid/Gitclones/arch-dwm-magic/arch-dwm-magic/suckless/dwm-6.2/config.def.h",
+				"/home/invalid/Gitclones/dwm-6.2/dwm.c.rej",
+				"/home/invalid/Gitclones/dwm-6.2/dwm.c"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"with-login-manager",
+					"->."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"without-login-manager"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 258.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 720.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"us",
+						"useradd"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/invalid/Gitclones/magic-arch-installer"
+			],
+			"file_history":
+			[
+				"/home/invalid/Gitclones/setup.zip/install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/install-utilities.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-lxqt.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-lxqt.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/with-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/without-login-manager/install-dwm.sh",
+				"/home/invalid/Applications/scripts/dwm-bar/dwm-bars.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-dwm.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-mate.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-lxde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-xfce.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-gnome.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-kde.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-cinnamon.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/README.md",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-i3.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/gui/install-lxqt.sh",
+				"/home/invalid/Gitclones/internet-crap/hosts",
+				"/home/invalid/Gitclones/internet-crap/README.md",
+				"/home/invalid/Downloads/Hosts/hosts",
+				"/home/invalid/Downloads/Hosts/hostsfinal.txt",
+				"/etc/hosts",
+				"/home/invalid/Downloads/Hosts/1.txt",
+				"/home/invalid/Downloads/Hosts/test/12.txt",
+				"/home/invalid/Downloads/Hosts/test/file1.txt",
+				"/home/invalid/Downloads/Hosts/test/file2.txt",
+				"/home/invalid/Downloads/Hosts/test/file1sorted.txt",
+				"/home/invalid/Downloads/Hosts/test/file1sort.txt",
+				"/home/invalid/Gitclones/dwm/dwm-6.2/config.def.h",
+				"/home/invalid/Gitclones/arch-dwm-magic/arch-dwm-magic/suckless/dwm-6.2/config.def.h",
+				"/home/invalid/Gitclones/dwm-6.2/dwm.c.rej",
+				"/home/invalid/Gitclones/dwm-6.2/dwm.c"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"with-login-manager",
+					"->."
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"without-login-manager"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/invalid/Gitclones/magic-arch-installer"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,29,46,749,737,1366,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 258.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 6,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
