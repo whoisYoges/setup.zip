@@ -19,7 +19,7 @@ boot the arch or arch-based installation media and get install.sh and execute it
 ### Usage
  1. Get the script in your media.
 ```
-	curl https://raw.githubusercontent.com/YogeshLamichhane/setup.zip/master/install.sh > install.sh
+	curl https://raw.githubusercontent.com/YogeshLamichhane/setup.zip/main/install.sh > install.sh
 ```
  2. make necessary changes in the script according to your needs.
 
@@ -32,6 +32,8 @@ boot the arch or arch-based installation media and get install.sh and execute it
 	./install.sh
 ```
 
+## Preview of my setup
+![my arch dwm preview](screenshot_000.png)
 ### Note
 get the list of all the installed packages in arch based machine:
 
