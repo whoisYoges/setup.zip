@@ -43,7 +43,7 @@ else
 
 	#Adding samba rules
 	echo "Creating samba rules at /etc/samba/smb.conf"
-	doas echo "[$username]" > /etc/samba/smb.conf
+	doas cat $username > /etc/samba/smb.conf
 	doas echo "comment = file sharing in same network" >> /etc/samba/smb.conf
 	doas echo "path = /home/$username" >> /etc/samba/smb.conf
 	doas echo "browseable = yes" >> /etc/samba/smb.conf
@@ -69,6 +69,7 @@ else
 	doas cp ~/Gitclones/setup.zip/main/root/.bashrc /root/
 	doas cp -r ~/Gitclones/setup.zip/main/root/.config /root/.config
 	doas mv ~/Gitclones/setup.zip/others/70-synaptics.conf /etc/X11/xorg.conf.d/70-synaptics.conf
+	
 	#moving my utilities to local bin 
 	cd ~/Gitclones/anime-terminal
 	chmod +x anime-terminal
@@ -76,13 +77,14 @@ else
 	cd ~/Gitclones/ytfzf
 	chmod +x ytfzf 
 	doas mv ytfzf /usr/local/bin/
+	cd ~/
 	rm -Rf Gitclones
 
 	cd ~/Applications/suckless/dwm-6.2/
-	make clean install
+	doas make clean install
 	sleep 2s
 	cd ../slock-1.4/
-	make clean install
+	doas make clean install
 	sleep 2s
 	cd
 fi
