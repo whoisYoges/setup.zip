@@ -17,7 +17,7 @@ Then, after reboot, login with regular user, get post-install.sh and execute it 
  	- others (contains settings for synaptic touchpad options)
  	- supports (contains additional helper files creating this script)
  	- base-install.sh (base installation of arch in few clicks)
-    - post-install.sh (get my arch dwm setup in a click)
+   - post-install.sh (get my arch dwm setup in a click)
 
 ### Usage
  1. Get the base-installation script in your arch installation media.

@@ -7,8 +7,9 @@ static const char *mutevol[] = { "/usr/bin/pactl", "set-sink-mute",   "0", "togg
 static const char *light_up[] = {"/usr/bin/xbacklight", "-inc", "5", NULL};
 static const char *light_down[] = {"/usr/bin/xbacklight", "-dec", "5", NULL};
 static const char *screenshot[] = { "/usr/bin/scrot", "/home/invalid/Pictures/Screenshots/screenshot.png", NULL };
+static const char *areascreenshot[] = { "/usr/bin/scrot", "-s", "/home/invalid/Pictures/Screenshots/screenshot.png", NULL };
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
-static const unsigned int gappx     = 5;        /* gaps between windows */
+static const unsigned int gappx     = 3;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
@@ -41,7 +42,6 @@ static const Rule rules[] = {
 	 *	WM_NAME(STRING) = title
 	 */
 	/* class      instance    title       tags mask     isfloating   monitor */
-	{ "Gimp",     NULL,       NULL,       0,            1,           -1 },
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
 };
 
@@ -109,8 +109,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
-	{ MODKEY,                       XK_minus,  setgaps,        {.i = -1 } },
-	{ MODKEY,                       XK_equal,  setgaps,        {.i = +1 } },
+	{ MODKEY,                       XK_minus,  setgaps,        {.i = -5 } },
+	{ MODKEY,                       XK_equal,  setgaps,        {.i = +5 } },
 	{ MODKEY|ShiftMask,             XK_equal,  setgaps,        {.i = 0  } },
 	TAGKEYS(                        XK_1,                      0)
 	TAGKEYS(                        XK_2,                      1)
@@ -123,6 +123,7 @@ static Key keys[] = {
 	TAGKEYS(                        XK_9,                      8)
 	{ MODKEY|ShiftMask,             XK_q,      quit,           {0} },
 	{ Mod4Mask, XK_s, spawn, {.v = screenshot} },
+	{ Mod4Mask|ShiftMask, XK_s, spawn, {.v = areascreenshot} },
 	{ Mod4Mask, XK_b, spawn, {.v = browser} },
 	{ Mod4Mask, XK_t, spawn, {.v = texteditor} },
 	{ Mod4Mask, XK_m, spawn, {.v = mailclient} },
