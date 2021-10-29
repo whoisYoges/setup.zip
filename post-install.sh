@@ -40,17 +40,17 @@ else
 	doas pip install yt-dlp
 	sleep 2s
 	doas ln /bin/yt-dlp /bin/youtube-dl
-
-	#Adding samba rules
-	echo "Creating samba rules at /etc/samba/smb.conf"
-	doas cat $username > /etc/samba/smb.conf
-	doas echo "comment = file sharing in same network" >> /etc/samba/smb.conf
-	doas echo "path = /home/$username" >> /etc/samba/smb.conf
-	doas echo "browseable = yes" >> /etc/samba/smb.conf
-	doas echo "readonly = no" >> /etc/samba/smb.conf
-	doas "adding $username to access samba"
-	doas smbpasswd -a $username
-	doas ufw allow cifs
+### Currently not working; will be fixed soon
+# 	#Adding samba rules
+# 	echo "Creating samba rules at /etc/samba/smb.conf"
+# 	doas cat $username > /etc/samba/smb.conf
+# 	doas echo "comment = file sharing in same network" >> /etc/samba/smb.conf
+# 	doas echo "path = /home/$username" >> /etc/samba/smb.conf
+# 	doas echo "browseable = yes" >> /etc/samba/smb.conf
+# 	doas echo "readonly = no" >> /etc/samba/smb.conf
+# 	doas "adding $username to access samba"
+# 	doas smbpasswd -a $username
+# 	doas ufw allow cifs
 
 	#adding current user to vboxusers group
 	echo "adding $username to vboxusers group"
@@ -65,9 +65,12 @@ else
 	cd ~/Gitclones/setup.zip/
 	cp -r Applications ~/
 	cp ~/Gitclones/setup.zip/main/home/.bashrc ~/
-	cp -r ~/Gitclones/setup.zip/main/home/.config ~/.config
+	cp -r ~/Gitclones/setup.zip/main/home/.config ~/
+	echo "copying .bashrc file to /root/"
 	doas cp ~/Gitclones/setup.zip/main/root/.bashrc /root/
-	doas cp -r ~/Gitclones/setup.zip/main/root/.config /root/.config
+	echo "copying config files to /root/.config/"
+	doas cp -r ~/Gitclones/setup.zip/main/root/.config /root/
+	echo "moving 70-synaptics.conf file to /etc/X11/xorg.conf.d"
 	doas mv ~/Gitclones/setup.zip/others/70-synaptics.conf /etc/X11/xorg.conf.d/70-synaptics.conf
 	
 	#moving my utilities to local bin 
