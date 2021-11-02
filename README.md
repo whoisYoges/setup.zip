@@ -45,7 +45,7 @@ default mod key is the Alt key.
 | 	Super + b 	  | Opens Brave browser | brave |
 | 	Super + c 	  | Opens Clipmenu clipboard manager | clipmenu |
 | 	Super + m 	  | Opens Thunderbird mail client | thunderbird |
-| 	Super + n 	  | Opens networkmanager_dmenu_git (aur package) | networkmanager_dmenu |
+| 	Super + n 	  | Opens [networkmanager-dmenu-git](https://aur.archlinux.org/networkmanager-dmenu-git.git) (aur package) | networkmanager_dmenu |
 | 	Super + s 	  | Screenshot using scrot and save it $HOME/Pictures/Screenshots/ | scrot $HOME/Pictures/Screenshots/screenshot.png |
 | 	Super + t 	  | Opens Mousepad text editor | mousepad |
 | 	Super + v 	  | Opens pavucontrol volume control | pavucontrol |
