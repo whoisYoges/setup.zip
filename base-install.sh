@@ -86,7 +86,7 @@ clear
 echo "Enter your computer name: "
 read hostname
 echo $hostname > /etc/hostname
-curl https://raw.githubusercontent.com/YogeshLamichhane/internet-crap/main/hosts > /etc/hosts
+curl https://raw.githubusercontent.com/whoisYoges/internet-crap/main/hosts > /etc/hosts
 clear
 echo "Enter password for root user: "
 passwd
