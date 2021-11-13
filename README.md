@@ -22,11 +22,11 @@ Then, after reboot, login with regular user, get post-install.sh and execute it 
 ### Usage
  1. Get the base-installation script in your arch installation media, make it executable and execute it to get base system of arch.
 ```
-curl https://raw.githubusercontent.com/YogeshLamichhane/setup.zip/main/base-install.sh > base-install.sh && chmod +x base-install.sh && ./base-install.sh
+curl https://raw.githubusercontent.com/whoisYoges/setup.zip/main/base-install.sh > base-install.sh && chmod +x base-install.sh && ./base-install.sh
 ```
  2. After reboot, login with regular user you created, and then get the post-installation script, make it executable and execute the script.
 ```
-curl https://raw.githubusercontent.com/YogeshLamichhane/setup.zip/main/post-install.sh > post-install.sh && chmod +x post-install.sh && ./post-install.sh
+curl https://raw.githubusercontent.com/whoisYoges/setup.zip/main/post-install.sh > post-install.sh && chmod +x post-install.sh && ./post-install.sh
 ```
 
 
