@@ -66,9 +66,9 @@ else
 	#creating directory and storing wallpapers
 	echo "creating /usr/share/backgrounds/custom/ to place wallpapers."
 	doas mkdir -p /usr/share/backgrounds/custom/
-	cd ~/Gitclones/lwalpapers
+	cd ~/Gitclones/lwalpapers/All\ Wallpapers/
 	echo "placing wallpapers in /usr/share/backgrounds/custom"
-	doas cp -r *jpg /usr/share/backgrounds/custom/
+	doas cp -r *png /usr/share/backgrounds/custom/
 	clear
 	
 	#placing config files
