@@ -1,17 +1,32 @@
 {
 	"folder_history":
 	[
+		"/home/invalid/Gitclones/Personal/setup.zip",
+		"/home/invalid/Gitclones/Personal/lwalpapers",
+		"/home/invalid/Applications/scripts",
+		"/home/invalid/Applications/suckless/dwm-6.2",
+		"/home/invalid/Gitclones/dwd",
+		"/home/invalid/Gitclones/lscripts",
+		"/home/invalid/Desktop/internet-crap",
+		"/home/invalid/Desktop/setup.zip",
+		"/home/invalid/Documents/Ascii",
+		"/home/invalid/Gitclones/LinuxGuideForAll",
+		"/home/invalid/Gitclones/setup.zip",
+		"/home/invalid/Documents/yogeshlamichhane.com.np",
+		"/home/invalid/Downloads/yogeshlamichhane.com.np",
+		"/home/invalid/Gitclones/lwallpapers",
 		"/home/invalid/Gitclones/magic-arch-installer",
 		"/home/invalid/Applications/scripts/dwm-bar",
 		"/home/invalid/Gitclones/internet-crap"
 	],
-	"last_version": 4113,
-	"last_window_id": 6,
+	"last_version": 4121,
+	"last_window_id": 26,
 	"log_indexing": false,
+	"next_update_check": 1640748116,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 691.0,
+		"new_window_height": 713.0,
 		"new_window_maximized": false,
 		"new_window_settings":
 		{
@@ -20,13 +35,117 @@
 				"selected_items":
 				[
 					[
+						"el",
+						"elif"
+					],
+					[
+						"choo",
+						"choosecategory"
+					],
+					[
+						"wall",
+						"wallresolution"
+					],
+					[
+						"b",
+						"br"
+					],
+					[
+						"whois",
+						"whoisYoges"
+					],
+					[
+						"gre",
+						"grey"
+					],
+					[
+						"y",
+						"yogeshlamichhane"
+					],
+					[
+						"in",
+						"install-xfce"
+					],
+					[
+						"X",
+						"XFCE4"
+					],
+					[
+						"an",
+						"answerde"
+					],
+					[
+						"lo",
+						"locale"
+					],
+					[
+						"co",
+						"conf"
+					],
+					[
+						"mak",
+						"makepkg"
+					],
+					[
+						"l",
+						"locale"
+					],
+					[
+						"makep",
+						"makepkg2"
+					],
+					[
+						"s",
+						"setup"
+					],
+					[
+						"G",
+						"Gitclones"
+					],
+					[
+						"ne",
+						"networkmanager"
+					],
+					[
 						"us",
-						"useradd"
+						"username"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"A",
+						"Applications"
 					]
 				]
 			},
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -56,14 +175,70 @@
 			},
 			"file_history":
 			[
+				"/home/invalid/Gitclones/Personal/setup.zip/README.md",
+				"/home/invalid/Gitclones/Personal/setup.zip/base-install.sh",
+				"/home/invalid/Gitclones/Personal/lwalpapers/a.sh",
+				"/home/invalid/Gitclones/Personal/lwalpapers/All Wallpapers/a.txt",
+				"/home/invalid/Gitclones/Personal/lwalpapers/README.md",
+				"/home/invalid/Applications/scripts/xinitrc",
+				"/home/invalid/Applications/scripts/dwm-bar/bar-functions/dwm_battery.sh",
+				"/home/invalid/Applications/scripts/notify/notify_battery.sh",
+				"/home/invalid/Applications/scripts/notify/battery.sh",
+				"/home/invalid/Gitclones/dwd/dwd-final.sh",
+				"/home/invalid/Gitclones/dwd/dwd.sh",
+				"/home/invalid/Gitclones/lscripts/dwd.sh",
+				"/home/invalid/Gitclones/lscripts/jpg2png&rename",
+				"/home/invalid/Gitclones/lscripts/dwd",
+				"/usr/local/bin/dwd",
+				"/home/invalid/Desktop/Dmenu-Anime/anime-terminal",
+				"/home/invalid/Pictures/Wallpapers/dwd/dwd",
+				"/home/invalid/Desktop/internet-crap/README.md",
+				"/home/invalid/Desktop/internet-crap/hosts",
+				"/home/invalid/Desktop/setup.zip/base-install.sh",
+				"/home/invalid/Documents/Ascii/newlinetospace.py",
+				"/home/invalid/Documents/Ascii/ascii_final.sh",
+				"/home/invalid/Documents/Ascii/ascii_echoed.sh",
+				"/home/invalid/Gitclones/LinuxGuideForAll/readme.md",
+				"/home/invalid/Gitclones/Linux/LinuxGuideForAll/readme.md",
+				"/home/invalid/Gitclones/ltest/README.md",
+				"/home/invalid/Gitclones/LinuxGuideForAll/README-advanced.md",
+				"/home/invalid/Gitclones/dwd/wallpaper.sh",
+				"/home/invalid/Pictures/Wallpapers/wallpaper.sh",
+				"/home/invalid/Gitclones/lwalpapers/README.md",
+				"/home/invalid/Gitclones/lwalpapers/new.txt",
+				"/home/invalid/Gitclones/lwalpapers/r",
+				"/home/invalid/Gitclones/setup.zip/extra/readme.md",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/sambashare.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/.htaccess",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error503.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error404.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error403.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error401.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error400.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/ICreatedAGTK+LinuxTheme.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/LinuxBrightnessController.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/allblogs.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/Anime-Terminal.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/index.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/css/main.css",
+				"/home/invalid/Gitclones/setup.zip/base-install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
+				"/home/invalid/Gitclones/setup.zip/README.md",
+				"/home/invalid/Gitclones/setup.zip/main/home/.config/fish/config.fish",
+				"/home/invalid/Gitclones/setup.zip/post-install.sh",
+				"/home/invalid/hosts",
+				"/home/invalid/hosts.orig",
+				"/home/invalid/Gitclones/setup.zip/main/root/.config/fish/functions/fish_prompt.fish",
 				"/home/invalid/Gitclones/setup.zip/install.sh",
+				"/home/invalid/packages/replacedNewlineWithSpace.txt",
+				"/home/invalid/Gitclones/setup.zip/supports/newlinetospace.py",
+				"/home/invalid/Gitclones/setup.zip/others/70-synaptics.conf",
 				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/install-utilities.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-gnome.sh",
-				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-dwm.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-dwm.sh",
@@ -125,7 +300,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -139,8 +314,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"with-login-manager",
-					"->."
+					"read"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -148,7 +322,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"without-login-manager"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -160,13 +333,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 40.0
+				"height": 43.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 132.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -174,7 +351,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -208,13 +385,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 222.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 720.0
+		"new_window_width": 1328.0
 	},
 	"windows":
 	[
@@ -224,17 +401,687 @@
 				"selected_items":
 				[
 					[
+						"el",
+						"elif"
+					],
+					[
+						"choo",
+						"choosecategory"
+					],
+					[
+						"wall",
+						"wallresolution"
+					],
+					[
+						"b",
+						"br"
+					],
+					[
+						"whois",
+						"whoisYoges"
+					],
+					[
+						"gre",
+						"grey"
+					],
+					[
+						"y",
+						"yogeshlamichhane"
+					],
+					[
+						"in",
+						"install-xfce"
+					],
+					[
+						"X",
+						"XFCE4"
+					],
+					[
+						"an",
+						"answerde"
+					],
+					[
+						"lo",
+						"locale"
+					],
+					[
+						"co",
+						"conf"
+					],
+					[
+						"mak",
+						"makepkg"
+					],
+					[
+						"l",
+						"locale"
+					],
+					[
+						"makep",
+						"makepkg2"
+					],
+					[
+						"s",
+						"setup"
+					],
+					[
+						"G",
+						"Gitclones"
+					],
+					[
+						"ne",
+						"networkmanager"
+					],
+					[
 						"us",
-						"useradd"
+						"username"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"A",
+						"Applications"
 					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/invalid/Gitclones/Personal/setup.zip/post-install.sh",
+					"settings":
+					{
+						"buffer_size": 10711,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							24,
+							4,
+							"left_delete",
+							null,
+							"BAAAAAoAAAAAAAAACgAAAAAAAAABAAAAaAkAAAAAAAAACQAAAAAAAAABAAAAcwgAAAAAAAAACAAAAAAAAAABAAAAYQcAAAAAAAAABwAAAAAAAAABAAAAYg",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": "env"
+							},
+							"AwAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": " bash"
+							},
+							"BQAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "'"
+							},
+							"AQAAAHUBAAAAAAAAdgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdQEAAAAAAAB1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "'"
+							},
+							"AQAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": "\""
+							},
+							"AQAAABsCAAAAAAAAHAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAGwIAAAAAAAAbAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAGICAAAAAAAAYwIAAAAAAAAAAAAAYwIAAAAAAABkAgAAAAAAAAAAAABkAgAAAAAAAGUCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYgIAAAAAAABiAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": " re"
+							},
+							"AwAAAGUCAAAAAAAAZgIAAAAAAAAAAAAAZgIAAAAAAABnAgAAAAAAAAAAAABnAgAAAAAAAGgCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAZQIAAAAAAABlAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAAGYCAAAAAAAAZgIAAAAAAAACAAAAcmVmAgAAAAAAAGwCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaAIAAAAAAABoAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAJUCAAAAAAAAlgIAAAAAAAAAAAAAlgIAAAAAAACXAgAAAAAAAAAAAACXAgAAAAAAAJgCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlQIAAAAAAACVAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAAJgCAAAAAAAAmQIAAAAAAAAAAAAAmQIAAAAAAACaAgAAAAAAAAAAAACaAgAAAAAAAJsCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmAIAAAAAAACYAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAAJkCAAAAAAAAmQIAAAAAAAACAAAAZXiZAgAAAAAAAJ0CAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmwIAAAAAAACbAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAPkDAAAAAAAA+gMAAAAAAAAAAAAA+gMAAAAAAAD7AwAAAAAAAAAAAAD7AwAAAAAAAPwDAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+QMAAAAAAAD5AwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAAPwDAAAAAAAA/QMAAAAAAAAAAAAA/QMAAAAAAAD+AwAAAAAAAAAAAAD+AwAAAAAAAP8DAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/AMAAAAAAAD8AwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAAP0DAAAAAAAA/QMAAAAAAAACAAAAZXj9AwAAAAAAAAEEAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA/wMAAAAAAAD/AwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAADcEAAAAAAAAOAQAAAAAAAAAAAAAOAQAAAAAAAA5BAAAAAAAAAAAAAA5BAAAAAAAADoEAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwQAAAAAAAA3BAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							53,
+							1,
+							"insert",
+							{
+								"characters": " re"
+							},
+							"AwAAADoEAAAAAAAAOwQAAAAAAAAAAAAAOwQAAAAAAAA8BAAAAAAAAAAAAAA8BAAAAAAAAD0EAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOgQAAAAAAAA6BAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							54,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAADsEAAAAAAAAOwQAAAAAAAACAAAAcmU7BAAAAAAAAEEEAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPQQAAAAAAAA9BAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							57,
+							1,
+							"insert",
+							{
+								"characters": "\""
+							},
+							"AQAAAG0kAAAAAAAAbiQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAbSQAAAAAAABtJAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": "\""
+							},
+							"AQAAAHckAAAAAAAAeCQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAdyQAAAAAAAB3JAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							62,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAEQlAAAAAAAARSUAAAAAAAAAAAAARSUAAAAAAABGJQAAAAAAAAAAAABGJQAAAAAAAEclAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARCUAAAAAAABEJQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": " re"
+							},
+							"AwAAAEclAAAAAAAASCUAAAAAAAAAAAAASCUAAAAAAABJJQAAAAAAAAAAAABJJQAAAAAAAEolAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAARyUAAAAAAABHJQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							64,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAAEglAAAAAAAASCUAAAAAAAACAAAAcmVIJQAAAAAAAE4lAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASiUAAAAAAABKJQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPUlAAAAAAAA9iUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9SUAAAAAAAD1JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							68,
+							1,
+							"insert",
+							{
+								"characters": "||"
+							},
+							"AgAAAPYlAAAAAAAA9yUAAAAAAAAAAAAA9yUAAAAAAAD4JQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA9iUAAAAAAAD2JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPglAAAAAAAA+SUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+CUAAAAAAAD4JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							70,
+							1,
+							"insert",
+							{
+								"characters": "e"
+							},
+							"AQAAAPklAAAAAAAA+iUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+SUAAAAAAAD5JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							71,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPklAAAAAAAA+SUAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAA+iUAAAAAAAD6JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							1,
+							"insert",
+							{
+								"characters": "re"
+							},
+							"AgAAAPklAAAAAAAA+iUAAAAAAAAAAAAA+iUAAAAAAAD7JQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+SUAAAAAAAD5JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							73,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAAPklAAAAAAAA+SUAAAAAAAACAAAAcmX5JQAAAAAAAP8lAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA+yUAAAAAAAD7JQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							76,
+							1,
+							"insert",
+							{
+								"characters": " |"
+							},
+							"AgAAACIoAAAAAAAAIygAAAAAAAAAAAAAIygAAAAAAAAkKAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIigAAAAAAAAiKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "|"
+							},
+							"AQAAACQoAAAAAAAAJSgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJCgAAAAAAAAkKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": " re"
+							},
+							"AwAAACUoAAAAAAAAJigAAAAAAAAAAAAAJigAAAAAAAAnKAAAAAAAAAAAAAAnKAAAAAAAACgoAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJSgAAAAAAAAlKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							79,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAACYoAAAAAAAAJigAAAAAAAACAAAAcmUmKAAAAAAAACwoAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAKCgAAAAAAAAoKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							82,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAK4oAAAAAAAArygAAAAAAAAAAAAArygAAAAAAACwKAAAAAAAAAAAAACwKAAAAAAAALEoAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArigAAAAAAACuKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							83,
+							1,
+							"insert",
+							{
+								"characters": " re"
+							},
+							"AwAAALEoAAAAAAAAsigAAAAAAAAAAAAAsigAAAAAAACzKAAAAAAAAAAAAACzKAAAAAAAALQoAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsSgAAAAAAACxKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							84,
+							1,
+							"insert_completion",
+							{
+								"completion": "return",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "return"
+							},
+							"AgAAALIoAAAAAAAAsigAAAAAAAACAAAAcmWyKAAAAAAAALgoAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtCgAAAAAAAC0KAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							87,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAABEpAAAAAAAAEikAAAAAAAAAAAAAEikAAAAAAAATKQAAAAAAAAAAAAATKQAAAAAAABQpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAESkAAAAAAAARKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							88,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAABQpAAAAAAAAFSkAAAAAAAAAAAAAFSkAAAAAAAAWKQAAAAAAAAAAAAAWKQAAAAAAABcpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFCkAAAAAAAAUKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							89,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAABUpAAAAAAAAFSkAAAAAAAACAAAAZXgVKQAAAAAAABkpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFykAAAAAAAAXKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							92,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAFEpAAAAAAAAUikAAAAAAAAAAAAAUikAAAAAAABTKQAAAAAAAAAAAABTKQAAAAAAAFQpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUSkAAAAAAABRKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							93,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAAFQpAAAAAAAAVSkAAAAAAAAAAAAAVSkAAAAAAABWKQAAAAAAAAAAAABWKQAAAAAAAFcpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVCkAAAAAAABUKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							94,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAAFUpAAAAAAAAVSkAAAAAAAACAAAAZXhVKQAAAAAAAFkpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVykAAAAAAABXKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							97,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAI4pAAAAAAAAjykAAAAAAAAAAAAAjykAAAAAAACQKQAAAAAAAAAAAACQKQAAAAAAAJEpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjikAAAAAAACOKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAAJEpAAAAAAAAkikAAAAAAAAAAAAAkikAAAAAAACTKQAAAAAAAAAAAACTKQAAAAAAAJQpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAkSkAAAAAAACRKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAAJIpAAAAAAAAkikAAAAAAAACAAAAZXiSKQAAAAAAAJYpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlCkAAAAAAACUKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"insert",
+							{
+								"characters": " ||"
+							},
+							"AwAAAL0pAAAAAAAAvikAAAAAAAAAAAAAvikAAAAAAAC/KQAAAAAAAAAAAAC/KQAAAAAAAMApAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvSkAAAAAAAC9KQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							103,
+							1,
+							"insert",
+							{
+								"characters": " ex"
+							},
+							"AwAAAMApAAAAAAAAwSkAAAAAAAAAAAAAwSkAAAAAAADCKQAAAAAAAAAAAADCKQAAAAAAAMMpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwCkAAAAAAADAKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							104,
+							1,
+							"insert_completion",
+							{
+								"completion": "exit",
+								"format": "text",
+								"keep_prefix": false,
+								"must_insert": false,
+								"trigger": "exit"
+							},
+							"AgAAAMEpAAAAAAAAwSkAAAAAAAACAAAAZXjBKQAAAAAAAMUpAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwykAAAAAAADDKQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": "--"
+							},
+							"AgAAAJclAAAAAAAAmCUAAAAAAAAAAAAAmCUAAAAAAACZJQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAlyUAAAAAAACXJQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAJklAAAAAAAAmiUAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmSUAAAAAAACZJQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							""
+						],
+						[
+							"Packages/Makefile/Make.sublime-build",
+							"Clean"
+						]
+					],
+					[
+						"Packages/Makefile/Make.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -264,18 +1111,74 @@
 			},
 			"expanded_folders":
 			[
-				"/home/invalid/Gitclones/magic-arch-installer"
+				"/home/invalid/Gitclones/Personal/setup.zip"
 			],
 			"file_history":
 			[
+				"/home/invalid/Gitclones/Personal/setup.zip/README.md",
+				"/home/invalid/Gitclones/Personal/setup.zip/base-install.sh",
+				"/home/invalid/Gitclones/Personal/lwalpapers/a.sh",
+				"/home/invalid/Gitclones/Personal/lwalpapers/All Wallpapers/a.txt",
+				"/home/invalid/Gitclones/Personal/lwalpapers/README.md",
+				"/home/invalid/Applications/scripts/xinitrc",
+				"/home/invalid/Applications/scripts/dwm-bar/bar-functions/dwm_battery.sh",
+				"/home/invalid/Applications/scripts/notify/notify_battery.sh",
+				"/home/invalid/Applications/scripts/notify/battery.sh",
+				"/home/invalid/Gitclones/dwd/dwd-final.sh",
+				"/home/invalid/Gitclones/dwd/dwd.sh",
+				"/home/invalid/Gitclones/lscripts/dwd.sh",
+				"/home/invalid/Gitclones/lscripts/jpg2png&rename",
+				"/home/invalid/Gitclones/lscripts/dwd",
+				"/usr/local/bin/dwd",
+				"/home/invalid/Desktop/Dmenu-Anime/anime-terminal",
+				"/home/invalid/Pictures/Wallpapers/dwd/dwd",
+				"/home/invalid/Desktop/internet-crap/README.md",
+				"/home/invalid/Desktop/internet-crap/hosts",
+				"/home/invalid/Desktop/setup.zip/base-install.sh",
+				"/home/invalid/Documents/Ascii/newlinetospace.py",
+				"/home/invalid/Documents/Ascii/ascii_final.sh",
+				"/home/invalid/Documents/Ascii/ascii_echoed.sh",
+				"/home/invalid/Gitclones/LinuxGuideForAll/readme.md",
+				"/home/invalid/Gitclones/Linux/LinuxGuideForAll/readme.md",
+				"/home/invalid/Gitclones/ltest/README.md",
+				"/home/invalid/Gitclones/LinuxGuideForAll/README-advanced.md",
+				"/home/invalid/Gitclones/dwd/wallpaper.sh",
+				"/home/invalid/Pictures/Wallpapers/wallpaper.sh",
+				"/home/invalid/Gitclones/lwalpapers/README.md",
+				"/home/invalid/Gitclones/lwalpapers/new.txt",
+				"/home/invalid/Gitclones/lwalpapers/r",
+				"/home/invalid/Gitclones/setup.zip/extra/readme.md",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/sambashare.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/.htaccess",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error503.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error404.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error403.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error401.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/error400.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/ICreatedAGTK+LinuxTheme.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/LinuxBrightnessController.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/allblogs.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/pages/Anime-Terminal.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/index.html",
+				"/home/invalid/Downloads/yogeshlamichhane.com.np/assets/css/main.css",
+				"/home/invalid/Gitclones/setup.zip/base-install.sh",
+				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
+				"/home/invalid/Gitclones/setup.zip/README.md",
+				"/home/invalid/Gitclones/setup.zip/main/home/.config/fish/config.fish",
+				"/home/invalid/Gitclones/setup.zip/post-install.sh",
+				"/home/invalid/hosts",
+				"/home/invalid/hosts.orig",
+				"/home/invalid/Gitclones/setup.zip/main/root/.config/fish/functions/fish_prompt.fish",
 				"/home/invalid/Gitclones/setup.zip/install.sh",
+				"/home/invalid/packages/replacedNewlineWithSpace.txt",
+				"/home/invalid/Gitclones/setup.zip/supports/newlinetospace.py",
+				"/home/invalid/Gitclones/setup.zip/others/70-synaptics.conf",
 				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/install-utilities.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/other-utilities/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-gnome.sh",
-				"/home/invalid/Gitclones/magic-arch-installer/base-install.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/README.md",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/without-login-manager/install-dwm.sh",
 				"/home/invalid/Gitclones/magic-arch-installer/gui-with-xorg/with-login-manager/install-dwm.sh",
@@ -337,7 +1240,7 @@
 			],
 			"find":
 			{
-				"height": 28.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -351,8 +1254,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"with-login-manager",
-					"->."
+					"read"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -360,7 +1262,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"without-login-manager"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -373,7 +1274,7 @@
 			"folders":
 			[
 				{
-					"path": "/home/invalid/Gitclones/magic-arch-installer"
+					"path": "/home/invalid/Gitclones/Personal/setup.zip"
 				}
 			],
 			"groups":
@@ -381,16 +1282,49 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/invalid/Gitclones/Personal/setup.zip/post-install.sh",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10711,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9626,
+										9626
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3796.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 40.0
+				"height": 43.0
 			},
 			"layout":
 			{
@@ -415,16 +1349,20 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 132.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,29,46,749,737,1366,768,0",
+			"position": "0,0,0,0,0,18,35,1346,748,1366,768,0",
 			"project": "",
 			"replace":
 			{
-				"height": 52.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -462,12 +1400,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 258.0,
+			"side_bar_width": 222.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 6,
+			"window_id": 26,
 			"workspace_name": ""
 		}
 	],

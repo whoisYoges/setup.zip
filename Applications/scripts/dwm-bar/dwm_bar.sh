@@ -6,9 +6,9 @@ DIR=$(dirname "$LOC")
 export SEP=" | "
 
 # Import the modules
-. "$DIR/bar-functions/dwm_battery.sh"
 . "$DIR/bar-functions/dwm_pulse.sh"
 . "$DIR/bar-functions/dwm_date.sh"
+. "$DIR/bar-functions/dwm_battery.sh"
 
 # Update dwm status bar every second
 while true

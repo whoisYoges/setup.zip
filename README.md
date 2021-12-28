@@ -1,7 +1,7 @@
 # setup.zip
-boot the arch installation media and get base-install.sh and execute it for the minimal installation of arch linux.
-
-Then, after reboot, login with regular user, get post-install.sh and execute it to get my dwm setup. 
+### base-install.sh: to install the base arch syatem on my machine.
+### post-install.sh: to get my dwm setup after base installation.
+ 
 ### Incluings
  - setup.zip
  	- Applications
@@ -53,6 +53,3 @@ default mod key is the Alt key.
 | Super + shift + s | Take screenshot of selected portion of screen using scrot and save it in $HOME/Pictures/Screenshots/ | scrot -s $HOME/Pictures/Screenshots/screenshot.png |
 
 #### Note: All the shortcuts are directly added to [dwm config file](https://github.com/YogeshLamichhane/setup.zip/blob/main/Applications/suckless/dwm-6.2/config.def.h).
-
-#### Just A Note for myself
-get the list of all the installed packages in arch based machine: `pacman -Q | awk '{print $1}' > packages.txt`

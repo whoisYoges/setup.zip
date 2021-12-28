@@ -1,50 +1,50 @@
+#!/bin/env bash
 pacman -Sy
 timedatectl set-ntp true
 clear
 lsblk
 echo "Please enter disk to work on (example /dev/sda): "
-read drive
+read -r drive
 clear
 echo "THIS WILL FORMAT AND DELETE ALL DATA ON THE DISK!!!"
-echo "Are you sure you want to continue? ELSE, You've got 10 seconds to stop it [ctrl + c]!!! "
-sleep 10s
+sleep 5s
 clear
 echo "Now make parttitons according to your needs."
 echo "root, home, swap, boot/efi partitions need to be created. home and swap partitions are optional but recommended. "
 # you can use cfdisk or gdisk in place of fdisk as well.
-fdisk $drive
+fdisk "$drive"
 clear
 lsblk
 echo "Enter the root partition (eg: /dev/sda1): "
-read rootpartition
-mkfs.ext4 $rootpartition
-mount $rootpartition /mnt
+read -r rootpartition
+mkfs.ext4 "$rootpartition"
+mount "$rootpartition" /mnt
 clear
 lsblk
-read -p "Did you also create separate home partition? [y/n]: " answerhome
-if [[ $answerhome = y ]] ; then
+read -pr "Did you also create separate home partition? [y/n]: " answerhome
+if [[ "$answerhome" = y ]] ; then
 	echo "Enter home partition (eg: /dev/sda2): "
-	read homepartition
-	mkfs.ext4 $homepartition
+	read -r homepartition
+	mkfs.ext4 "$homepartition"
 	mkdir /mnt/home
-	mount $homepartition /mnt/home
+	mount "$homepartition" /mnt/home
 fi
 clear
 lsblk
-read -p "Did you also create swap partition? [y/n]: " answerswap
-if [[ $answerswap = y ]] ; then
+read -pr "Did you also create swap partition? [y/n]: " answerswap
+if [[ "$answerswap" = y ]] ; then
 	echo "Enter swap partition (eg: /dev/sda3): "
-	read swappartition
-	mkswap $swappartition
-	swapon $swappartition
+	read -pr swappartition
+	mkswap "$swappartition"
+	swapon "$swappartition"
 fi
 clear
 lsblk
 echo "Enter EFI partition (eg: /dev/sda4): "
-read efipartition
-mkfs.vfat -F 32 $efipartition
-mkdir -p /mnt/boot/efi
-mount $efipartition /mnt/boot/efi
+read -r efipartition
+mkfs.vfat -F 32 "$efipartition"
+mkdir -pr /mnt/boot/efi
+mount "$efipartition" /mnt/boot/efi
 clear
 lsblk
 sleep 2s
@@ -78,14 +78,14 @@ sed 's/#en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen > /etc/locale2.gen
 mv /etc/locale2.gen /etc/locale.gen
 clear
 echo "checking locale.gen file if its ok or not."
-cat /etc/locale.gen | grep US
+grep US /etc/locale.gen
 sleep 3s
 locale-gen
 echo "LANG=en_US.UTF-8" > /etc/locale.conf
 clear
 echo "Enter your computer name: "
-read hostname
-echo $hostname > /etc/hostname
+read -r hostname
+echo "$hostname" > /etc/hostname
 curl https://raw.githubusercontent.com/whoisYoges/internet-crap/main/hosts > /etc/hosts
 clear
 echo "Enter password for root user: "
@@ -98,10 +98,10 @@ systemctl enable NetworkManager
 clear
 
 echo "Enter username to add a regular user: "
-read username
-useradd -m -g users -G wheel -s /bin/fish $username
-echo "Enter password for $username : "
-passwd $username
+read -r username
+useradd -m -g users -G wheel -s /bin/fish "$username"
+echo "Enter password for '$username' : "
+passwd "$username"
 usermod --shell /bin/fish root
 clear
 echo "NOTE: ALWAYS REMEMBER THIS USERNAME AND PASSWORD YOU PUT JUST NOW."
@@ -117,15 +117,15 @@ echo "permit keepenv :wheel" > /etc/doas.conf
 sleep 2s
 # adding doas to be used in place of (default)sudo while compiling packages from source (PKGBUILD)
 
-cd /etc/
+cd /etc/ || return
 cp makepkg.conf makepkg.conf.orig
 sed '/PACMAN_AUTH=()/d' makepkg.conf > makepkg2.conf
 mv makepkg2.conf makepkg.conf
 echo "PACMAN_AUTH=(doas)" >> makepkg.conf
 echo "checking if doas is applied for PKGBUILD or not."
-cat makepkg.conf | less
+less makepkg.conf
 sleep 3s
-cd
+cd || exit
 
 rm /post_base-install.sh
 exit

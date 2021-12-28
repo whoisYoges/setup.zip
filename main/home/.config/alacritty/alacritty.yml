@@ -110,7 +110,7 @@ scrolling:
     #
     # Default:
     #   - (macOS) Menlo
-    #   - (Linux/BSD) monospace
+    #   - (Linux/BSD) lekton 
     #   - (Windows) Consolas
     #family: monospace
 
