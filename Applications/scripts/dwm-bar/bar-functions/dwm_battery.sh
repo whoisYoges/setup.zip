@@ -5,12 +5,5 @@ dwm_battery () {
     STATUS=$(cat /sys/class/power_supply/BAT0/status)
     printf "BAT: %s%% %s" "$CHARGE" "$STATUS"
     printf "%s\n" "$SEP"
-
-while [ "$CHARGE" -lt 26 ]
-do
-  notify-send  -u critical "Battery Critically Low."
-  sleep 150s
-done
-
 }
 dwm_battery

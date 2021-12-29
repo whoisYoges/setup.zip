@@ -3,6 +3,7 @@ picom &
 clipmenud &
 dunst &
 /home/invalid/Applications/scripts/dwm-bar/dwm_bar.sh &
+/home/invalid/Applications/scripts/notify/battery_notify.sh &
 while true; do
   dwm >/dev/null 2>&1
 done
