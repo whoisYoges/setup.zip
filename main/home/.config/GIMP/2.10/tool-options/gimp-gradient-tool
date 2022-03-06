@@ -1,9 +1,0 @@
-# GIMP gimp-gradient-tool options
-
-(foreground (color-rgb 0.16736401673640167 0.15163853865378674 0.15163853865378674))
-(background (color-rgb 0.71551724137931028 0.71551724137931028 0.71551724137931028))
-(gradient "FG to BG (RGB)")
-(brush-size 51)
-(brush-hardness 0.5)
-
-# end of gimp-gradient-tool options

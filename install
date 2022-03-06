@@ -1,0 +1,105 @@
+#!/bin/sh
+
+checkYay(){
+if ! yay --version &> /dev/null
+then
+    user=$(whoami)
+    if [ "$user" == root]; then
+        echo "You're not permitted to run it as root."
+        echo "Run with a regular user."
+        exit 1
+    else
+        cd ~
+        mkdir setup.zip
+        cd setup.zip/
+        git clone https://aur.archlinux.org/yay.git/
+        cd yay/
+        makepkg -si
+    fi
+fi
+}
+
+clear
+echo "Backing up your old configs in .config.old"
+cp -r $HOME/.config/ $HOME/.config.old/
+cp -r $HOME/.vim/ $HOME/.vim.old/
+cp $HOME/.vimrc $HOME/.vimrc.old
+
+clear
+echo "WARNING!!! THIS SCRIPT WILL REPLACE older config files and directories if exists. So backup your configs or edit this script accordingly."
+sleep 5s
+
+echo "Installing git, python, python-pip fzf ueberzug jq sxhkd nitrogen
+light zathura ffmpeg thunderbird keepassxc clipmenu mousepad vim
+imagemagick xorg-server xorg-xsetroot xorg-xinit"
+sleep 3s
+sudo pacman -Syu --needed git python python-pip fzf ueberzug jq sxhkd
+nitrogen light zathura ffmpeg thunderbird keepassxc clipmenu mousepad
+vim imagemagick xorg-server xorg-xsetroot xorg-xinti
+
+echo "Installing yt-dlp"
+sleep 3s
+pip install yt-dlp
+
+echo "Checking yay aur-helper!"
+checkYay
+
+echo "Installing brave-bin, picom-jonaburg-git, timeshift, "
+sleep 3s
+yay -S --needed brave-bin picom-jonaburg-git timeshift
+
+cd ~
+mkdir setup.zip
+cd setup.zip
+git clone https://github.com/whoisYoges/dwm
+git clone https://github.com/whoisYoges/dmenu
+git clone https://github.com/whoisYoges/slock
+git clone https://github.com/whoisYoges/lwalpapers
+git clone https://github.com/whoisYoges/dotfile
+git clone https://github.com/whoisYoges/anime-terminal
+git clone https://github.com/whoisYoges/ytfzf
+git clone https://github.com/whoisYoges/xyzfetch
+git clone https://github.com/whoisYoges/record-with-ffmpeg
+git clone https://github.com/whoisYoges/lscripts
+
+cd dwm
+sudo make clean install
+
+cd ../dmenu/
+sudo make clean install
+
+cd ../slock/
+sudo make clean install
+
+cd ../anime-terminal/
+chmod +x anime-terminal
+sudo cp anime-terminal /usr/local/bin/
+
+cd ../ytfzf/
+chmod +x ytfzf
+sudo cp ytfzf /usr/local/bin/
+
+cd ../xyzfetch/
+chmod +x xyzfetch
+sudo cp xyzfetch /usr/local/bin/
+
+cd ../record-with-ffmpeg/
+chmod +x record-with-ffmpeg
+sudo cp record-with-ffmpeg /usr/local/bin/
+
+cd ../lscripts/Shell/
+chmod +x backgroundchanger dwm-bar
+sudo cp backgroundchanger /usr/local/bin/
+sudo mkdir /usr/local/scripts/ && sudo cp dwm-bar /usr/local/scripts/
+
+cd ../lwalpapers/
+if [ ! -d /usr/share/backgrounds/ ]; then
+    sudo mkdir -p /usr/share/backgrounds/
+fi
+sudo cp -r All\ Wallpapers/ /usr/share/backgrounds/custom/
+
+cd ../dotfile/
+cp -r home/{.vimrc, .bashrc, .xinitrc, .vim/} $HOME/
+
+cp -r home/.config/* $HOME/.config/
+
