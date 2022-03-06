@@ -4,7 +4,7 @@ checkYay(){
 if ! yay --version &> /dev/null
 then
     user=$(whoami)
-    if [ "$user" == root]; then
+    if [ "$user" == root ]; then
         echo "You're not permitted to run it as root."
         echo "Run with a regular user."
         exit 1
@@ -29,6 +29,8 @@ clear
 echo "WARNING!!! THIS SCRIPT WILL REPLACE older config files and directories if exists. So backup your configs or edit this script accordingly."
 sleep 5s
 
+echo "Updating Keyring"
+sudo pacman -Syu --needed archlinux-keyring
 echo "Installing git, python, python-pip fzf ueberzug jq sxhkd nitrogen
 light zathura ffmpeg thunderbird keepassxc clipmenu mousepad vim
 imagemagick xorg-server xorg-xsetroot xorg-xinit"
