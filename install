@@ -33,7 +33,7 @@ echo "Installing git, python, python-pip fzf ueberzug jq sxhkd nitrogen
 light zathura ffmpeg thunderbird keepassxc clipmenu mousepad vim
 imagemagick xorg-server xorg-xsetroot xorg-xinit"
 sleep 3s
-sudo pacman -Syu --needed git python python-pip fzf ueberzug jq sxhkd nitrogen light zathura ffmpeg thunderbird keepassxc clipmenu mousepad vim imagemagick xorg-server xorg-xsetroot xorg-xinti
+sudo pacman -Syu --needed git python python-pip fzf ueberzug jq sxhkd nitrogen light zathura ffmpeg thunderbird keepassxc clipmenu mousepad vim imagemagick xorg-server xorg-xsetroot xorg-xinit
 
 echo "Installing yt-dlp"
 sleep 3s
